@@ -1,2 +1,3 @@
-name: Sarah LECLERC, what else
+name: Sarah LECLERC
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
